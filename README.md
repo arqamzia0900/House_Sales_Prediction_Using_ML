@@ -34,7 +34,7 @@ How to Run:
 
 Clone the repository
 
-git clone https://github.com/your-username/House_Sales_Prediction_Using_ML.git
+git clone https://github.com/arqamzia0900/House_Sales_Prediction_Using_ML.git
 
 
 Install dependencies
